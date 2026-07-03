@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_IMAGE_URL_HERE" width="100%" alt="banner"/>
+  <img src="banner.jpg" width="100%" alt="banner"/>
 </div>
 
 <h3 align="center">⚡ AI/ML Engineer | Shipping Complete Systems, Not Just Notebooks</h3>
