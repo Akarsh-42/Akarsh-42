@@ -13,6 +13,7 @@
 
 > Second-year CS (AI & ML) student who builds full working systems — RAG chatbots, RL trading agents, and a 14-step autonomous agentic pipeline. Seeking ML / AI / GenAI internships.
 
+Portfolio-> https://akarsh-mohanty.netlify.app/
 ### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
